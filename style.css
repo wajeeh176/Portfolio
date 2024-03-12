@@ -23,7 +23,7 @@
 }
 
 .LogoPlaceholder {
-  
+
   display: inline-flex;
   align-self: stretch;
   padding-left: 12px;
@@ -45,7 +45,7 @@
 }
 
 .NormalButtonTertiaryEnabled {
-  
+
   align-self: stretch;
   padding: 8px;
   border-radius: 8px;
@@ -74,14 +74,14 @@
   height: 718px;
   background: white;
   flex-shrink: 0;
-  
+
 }
 
 .HeaderShapesMobile {
   width: 462px;
   height: 587.15px;
   position: relative;
-  
+
 }
 
 .Rectangle7 {
@@ -209,7 +209,7 @@
   top: 80.24px;
   position: absolute;
   border-radius: 99999px;
-  
+
 }
 
 .Rectangle4 {
