@@ -4,11 +4,9 @@
   position: relative;
   background: white;
   overflow: hidden;
-
 }
 
 .ToolbarDarkCompact {
-
   display: inline-flex;
   flex: 1 1 0;
   align-self: stretch;
@@ -19,11 +17,9 @@
   justify-content: flex-start;
   align-items: flex-start;
   gap: 200px;
-
 }
 
 .LogoPlaceholder {
-
   display: inline-flex;
   align-self: stretch;
   padding-left: 12px;
@@ -45,7 +41,6 @@
 }
 
 .NormalButtonTertiaryEnabled {
-
   align-self: stretch;
   padding: 8px;
   border-radius: 8px;
@@ -74,14 +69,12 @@
   height: 718px;
   background: white;
   flex-shrink: 0;
-
 }
 
 .HeaderShapesMobile {
   width: 462px;
   height: 587.15px;
   position: relative;
-
 }
 
 .Rectangle7 {
