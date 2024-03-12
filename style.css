@@ -1,285 +1,291 @@
-@media screen and (max-width: 375px) {
-  .Template1MobileMain {
-    width: 375px;
-    height: 5410px;
-    position: relative;
-    background: #f7f7f9;
-    overflow: hidden;
-  }
+.Template1MobileMain {
+  width: 375px;
+  height: 5410px;
+  position: relative;
+  background: white;
+  overflow: hidden;
 
-  .ToolbarDarkCompact {
-    display: inline-flex;
-    flex: 1 1 0;
-    align-self: stretch;
-    padding-top: 4px;
-    padding-bottom: 4px;
-    padding-left: 12px;
-    padding-right: 24px;
-    justify-content: flex-start;
-    align-items: flex-start;
-    gap: 199px;
-  }
+}
 
-  .LogoPlaceholder {
-    display: inline-flex;
-    align-self: stretch;
-    padding-left: 12px;
-    padding-right: 12px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    justify-content: flex-start;
-    align-items: center;
-  }
+.ToolbarDarkCompact {
 
-  .MyLogo {
-    text-align: center;
-    color: #6070ff;
-    font-size: 18px;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 700;
-    line-height: 20px;
-    word-wrap: break-word;
-  }
+  display: inline-flex;
+  flex: 1 1 0;
+  align-self: stretch;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 12px;
+  padding-right: 24px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 200px;
 
-  .NormalButtonTertiaryEnabled {
-    align-self: stretch;
-    padding: 8px;
-    border-radius: 8px;
-    overflow: hidden;
-    justify-content: flex-start;
-    align-items: flex-start;
-    display: inline-flex;
-  }
+}
 
-  .IconsIconMenu {
-    width: 24px;
-    height: 24px;
-    position: relative;
-  }
+.LogoPlaceholder {
+  
+  display: inline-flex;
+  align-self: stretch;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  justify-content: flex-start;
+  align-items: center;
+}
 
-  .Union {
-    width: 18px;
-    height: 12px;
-    left: 3px;
-    top: 6px;
-    position: absolute;
-  }
+.MyLogo {
+  text-align: center;
+  color: #6070ff;
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  line-height: 20px;
+  word-wrap: break-word;
+}
 
-  .HeaderBackgroundMobile {
-    width: 375px;
-    height: 718px;
-    background: white;
-    flex-shrink: 0;
-  }
+.NormalButtonTertiaryEnabled {
+  
+  align-self: stretch;
+  padding: 8px;
+  border-radius: 8px;
+  overflow: hidden;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: inline-flex;
+}
 
-  .HeaderShapesMobile {
-    width: 462px;
-    height: 587.15px;
-    position: relative;
-  }
+.IconsIconMenu {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
 
-  .Rectangle7 {
-    width: 26.46px;
-    height: 4.73px;
-    left: 161.18px;
-    top: 42.59px;
-    position: absolute;
-    transform: rotate(40.77deg);
-    transform-origin: 0 0;
-    background: #6070ff;
-  }
+.Union {
+  width: 18px;
+  height: 12px;
+  left: 3px;
+  top: 6px;
+  position: absolute;
+}
 
-  .Ellipse5 {
-    width: 11px;
-    height: 10px;
-    left: 166.98px;
-    top: 51.81px;
-    position: absolute;
-    transform: rotate(52.97deg);
-    transform-origin: 0 0;
-    background: #cbcdff;
-    border-radius: 9999px;
-  }
+.HeaderBackgroundMobile {
+  width: 375px;
+  height: 718px;
+  background: white;
+  flex-shrink: 0;
+  
+}
 
-  .Rectangle5 {
-    width: 68.06px;
-    height: 12.18px;
-    left: 225.82px;
-    top: 549px;
-    position: absolute;
-    transform: rotate(23.34deg);
-    transform-origin: 0 0;
-    background: #ebebff;
-  }
+.HeaderShapesMobile {
+  width: 462px;
+  height: 587.15px;
+  position: relative;
+  
+}
 
-  .Ellipse4 {
-    width: 20px;
-    height: 20px;
-    left: 271px;
-    top: 553.1px;
-    position: absolute;
-    background: #6070ff;
-    border-radius: 9999px;
-  }
+.Rectangle7 {
+  width: 26.46px;
+  height: 4.73px;
+  left: 161.18px;
+  top: 42.59px;
+  position: absolute;
+  transform: rotate(40.77deg);
+  transform-origin: 0 0;
+  background: #6070ff;
+}
 
-  .Ellipse13 {
-    width: 30.1px;
-    height: 30.1px;
-    left: 300.18px;
-    top: 470.44px;
-    position: absolute;
-    transform: rotate(341deg);
-    transform-origin: 0 0;
-    border-radius: 9999px;
-  }
+.Ellipse5 {
+  width: 11px;
+  height: 10px;
+  left: 166.98px;
+  top: 51.81px;
+  position: absolute;
+  transform: rotate(52.97deg);
+  transform-origin: 0 0;
+  background: #cbcdff;
+  border-radius: 9999px;
+}
 
-  .Ellipse12 {
-    width: 24.14px;
-    height: 12.07px;
-    left: 318.76px;
-    top: 455.69px;
-    position: absolute;
-    transform: rotate(7deg);
-    transform-origin: 0 0;
-  }
+.Rectangle5 {
+  width: 68.06px;
+  height: 12.18px;
+  left: 225.82px;
+  top: 549px;
+  position: absolute;
+  transform: rotate(23.34deg);
+  transform-origin: 0 0;
+  background: #ebebff;
+}
 
-  .Rectangle6 {
-    width: 51.99px;
-    height: 9.3px;
-    left: -34px;
-    top: 83.49px;
-    position: absolute;
-    transform: rotate(-46.14deg);
-    transform-origin: 0 0;
-    background: #ebebff;
-  }
+.Ellipse4 {
+  width: 20px;
+  height: 20px;
+  left: 271px;
+  top: 553.1px;
+  position: absolute;
+  background: #6070ff;
+  border-radius: 9999px;
+}
 
-  .Ellipse11 {
-    width: 38.5px;
-    height: 19.25px;
-    left: -10px;
-    top: 70px;
-    position: absolute;
-    transform-origin: 0 0;
-  }
+.Ellipse13 {
+  width: 30.1px;
+  height: 30.1px;
+  left: 300.18px;
+  top: 470.44px;
+  position: absolute;
+  transform: rotate(341deg);
+  transform-origin: 0 0;
+  border-radius: 9999px;
+}
 
-  .Ellipse8 {
-    width: 15px;
-    height: 15px;
-    left: 248px;
-    top: 6px;
-    position: absolute;
-    background: white;
-    border-radius: 9999px;
-    border: 1px #cbcdff solid;
-  }
+.Ellipse12 {
+  width: 24.14px;
+  height: 12.07px;
+  left: 318.76px;
+  top: 455.69px;
+  position: absolute;
+  transform: rotate(7deg);
+  transform-origin: 0 0;
+}
 
-  .Ellipse14 {
-    width: 11px;
-    height: 11px;
-    left: 332px;
-    top: 211px;
-    position: absolute;
-    background: white;
-    border-radius: 9999px;
-    border: 1px #cbcdff solid;
-  }
+.Rectangle6 {
+  width: 51.99px;
+  height: 9.3px;
+  left: -34px;
+  top: 83.49px;
+  position: absolute;
+  transform: rotate(-46.14deg);
+  transform-origin: 0 0;
+  background: #ebebff;
+}
 
-  .Ellipse15 {
-    width: 15px;
-    height: 15px;
-    left: 87px;
-    top: 541px;
-    position: absolute;
-    background: white;
-    border-radius: 9999px;
-    border: 1px #cbcdff solid;
-  }
+.Ellipse11 {
+  width: 38.5px;
+  height: 19.25px;
+  left: -10px;
+  top: 70px;
+  position: absolute;
+  transform-origin: 0 0;
+}
 
-  .Ellipse3 {
-    width: 105px;
-    height: 105px;
-    left: 305px;
-    top: 80.24px;
-    position: absolute;
-    border-radius: 9999px;
-  }
+.Ellipse8 {
+  width: 15px;
+  height: 15px;
+  left: 248px;
+  top: 6px;
+  position: absolute;
+  background: white;
+  border-radius: 9999px;
+  border: 1px #cbcdff solid;
+}
 
-  .Rectangle4 {
-    width: 95.58px;
-    height: 22.02px;
-    left: 300px;
-    top: 92.79px;
-    position: absolute;
-    transform: rotate(-30deg);
-    transform-origin: 0 0;
-    background: #ebebff;
-  }
+.Ellipse14 {
+  width: 11px;
+  height: 11px;
+  left: 332px;
+  top: 211px;
+  position: absolute;
+  background: white;
+  border-radius: 9999px;
+  border: 1px #cbcdff solid;
+}
 
-  .Headline {
-    padding-left: 24px;
-    padding-right: 24px;
-    padding-top: 114px;
-    padding-bottom: 114px;
-    left: 0;
-    top: 92px;
-    position: absolute;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    gap: 12px;
-    display: inline-flex;
-  }
+.Ellipse15 {
+  width: 15px;
+  height: 15px;
+  left: 87px;
+  top: 541px;
+  position: absolute;
+  background: white;
+  border-radius: 9999px;
+  border: 1px #cbcdff solid;
+}
 
-  .PrimaryText {
-    width: 327px;
-    height: 150px;
-    color: #172b4d;
-    font-size: 40px;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 700;
-    line-height: 52px;
-    word-wrap: break-word;
-  }
+.Ellipse3 {
+  width: 105px;
+  height: 105px;
+  left: 305px;
+  top: 80.24px;
+  position: absolute;
+  border-radius: 99999px;
+  
+}
 
-  .PrimaryTextNext {
-    width: 327px;
-    height: 146px;
-    color: #344563;
-    font-size: 16px;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 400;
-    line-height: 24px;
-    word-wrap: break-word;
-  }
+.Rectangle4 {
+  width: 95.58px;
+  height: 22.02px;
+  left: 300px;
+  top: 92.79px;
+  position: absolute;
+  transform: rotate(-30deg);
+  transform-origin: 0 0;
+  background: #ebebff;
+}
 
-  .SocialMedia {
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    gap: 16px;
-    display: flex;
-  }
+.Headline {
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 114px;
+  padding-bottom: 114px;
+  left: 0;
+  top: 92px;
+  position: absolute;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 12px;
+  display: inline-flex;
+}
 
-  .SupportingText {
-    justify-content: flex-start;
-    align-items: center;
-    gap: 8px;
-    display: inline-flex;
-  }
+.PrimaryText {
+  width: 327px;
+  height: 150px;
+  color: #172b4d;
+  font-size: 40px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  line-height: 52px;
+  word-wrap: break-word;
+}
 
-  .LetSConnect {
-    color: #7f8cff;
-    font-size: 16px;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 500;
-    line-height: 24px;
-    word-wrap: break-word;
-  }
+.PrimaryTextNext {
+  width: 327px;
+  height: 146px;
+  color: #344563;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  line-height: 24px;
+  word-wrap: break-word;
+}
 
-  .SocialMediaIcons {
-    width: 170.17px;
-    height: 20px;
-    position: relative;
-  }
+.SocialMedia {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 16px;
+  display: flex;
+}
+
+.SupportingText {
+  justify-content: flex-start;
+  align-items: center;
+  gap: 8px;
+  display: inline-flex;
+}
+
+.LetSConnect {
+  color: #7f8cff;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  line-height: 24px;
+  word-wrap: break-word;
+}
+
+.SocialMediaIcons {
+  width: 170.17px;
+  height: 20px;
+  position: relative;
 }
