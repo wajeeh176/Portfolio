@@ -1,5 +1,5 @@
 .Template1MobileMain {
-  width: 375px;
+  width: 395px;
   height: 5410px;
   position: relative;
   background: white;
@@ -228,6 +228,7 @@
   align-items: flex-start;
   gap: 12px;
   display: inline-flex;
+ 
 }
 
 .PrimaryText {
@@ -280,4 +281,42 @@
   width: 170.17px;
   height: 20px;
   position: relative;
+}
+
+.works {
+display: grid;
+height: 2,788px;
+background-color: whitesmoke;
+grid-template-rows: 25% 25% 25%  25%;
+padding-top: 8pc;
+padding-bottom: 8pc;
+justify-content: center;
+width: 375px;
+
+}
+
+.cardWorks{
+height: 552px;
+margin-top: 20px;
+width: 327px;
+padding: 16px;
+border-radius: 16px;
+gap: 12px;
+display: inline-block;
+justify-content: center;
+background-color: white;
+
+}
+
+.leftBlock{
+width: 295px;
+height: 288px;
+gap: 12px;
+border: 1px solid red;
+}
+
+.projectTitle{
+width: 295px;
+height: 36px;
+
 }
