@@ -285,7 +285,7 @@
 
 .works {
 display: grid;
-height: 2,788px;
+height: 2,900px;
 background-color: whitesmoke;
 grid-template-rows: 25% 25% 25%  25%;
 padding-top: 8pc;
@@ -447,3 +447,83 @@ line-height: 4px;
   font-weight: 500;
 }
 
+.about_my_self{
+  width: 375px;
+  height: 1062.15px;
+  margin-top: -50px;
+  padding: 114px,24px,114px,24px; 
+  gap: 24px; 
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  border-radius: 0px  50px  0px  0px;
+}
+
+.top{
+  width: 327px;
+  height: 346px;
+  gap: 12px;
+  margin-top: 130px;
+  margin-left: 20px;
+}
+
+#T1{
+font-family: "poppins";
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+color: #172B4D;
+}
+
+#T2{
+  font-family: "poppins";
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #344563;
+height: 147px;
+width: 327px;
+
+}
+
+#socials{
+  width: 200px;
+  height: 80px;
+  gap: 16px;
+  color: #7F8CFF;
+  margin-top: 7px;
+}
+
+#sptTxt{
+width: 170px;
+height:24px;
+font-family: "poppins";
+font-weight: 500;
+font-size: 16px;
+line-height: 24px; 
+
+}
+
+#frame1 img{ 
+padding: 4px;
+margin-top: 8px;
+margin-left: 6px;
+}
+
+#btn2{
+  width: 162px;
+  height: 30px;
+  border-radius: 8px;
+  border: 1px solid #6070FF;
+  padding: 12px;
+  gap: 10px;
+  font-family: "poppins";
+  font-weight: 500;
+  font-size: 17px;
+  display: flex;
+  align-items: center;
+  color: #396DF2;
+  justify-content: center;
+  margin-left: -10px;
+  margin-top: 10px;
+}
