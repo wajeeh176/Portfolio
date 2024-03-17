@@ -338,8 +338,85 @@ list-style-type: none;
 display: inline-block;
 font-family: "poppins";
 margin: 2px;
-
+line-height: 4px;
 }
 
+#canopy{
+  color: rgba(52, 69, 99, 1);
+  font-weight: 600;
+}
+.clr{
+  color: rgba(122, 134, 154, 1);
+}
 
+.cardText{
+  width: 295px;
+  height: 76px;
+  font-family: "poppins";
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  margin-left: 10px;
+  color: rgba(52, 69, 99, 1);
+}
+
+.tags{
+  width: 214px;
+  height: 24px;
+  gap: 8px;
+
+  display: flex;
+  margin-top: 10px;
+}
+
+#tag1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 57px;
+  height: 24px;
+  padding: 4px,12px,4px,12px;
+  background-color: rgba(235, 235, 255, 1);
+  border-radius: 8px;
+  font-family: "poppins";
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 3%;
+  color: rgba(96, 112, 255, 1);
+}
+
+#tag2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 49px;
+  height: 24px;
+  padding: 4px,12px,4px,12px;
+  background-color: rgba(235, 235, 255, 1);
+  border-radius: 8px;
+  font-family: "poppins";
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 3%;
+  color: rgba(96, 112, 255, 1);
+}
+
+#tag3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 92px;
+  height: 24px;
+  padding: 4px,12px,4px,12px;
+  background-color: rgba(235, 235, 255, 1);
+  border-radius: 8px;
+  font-family: "poppins";
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 3%;
+  color: rgba(96, 112, 255, 1);
+}
 
