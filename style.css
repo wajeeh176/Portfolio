@@ -447,7 +447,7 @@ li {
   padding: 114px, 24px, 114px, 24px;
   gap: 24px;
   background-color: white;
-  border-radius: 0px 50px;
+  border-radius: 50px;
   border: 2px solid white;
 }
 
