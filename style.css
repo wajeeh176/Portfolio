@@ -228,7 +228,6 @@
   align-items: flex-start;
   gap: 12px;
   display: inline-flex;
-
 }
 
 .PrimaryText {
@@ -292,7 +291,6 @@
   padding-bottom: 8pc;
   justify-content: center;
   width: 375px;
-
 }
 
 .cardWorks {
@@ -305,14 +303,12 @@
   display: inline-block;
   justify-content: center;
   background-color: white;
-
 }
 
 .leftBlock {
   width: 295px;
   height: 288px;
   gap: 12px;
-
 }
 
 .projectTitle {
@@ -322,13 +318,11 @@
   font-size: 32px;
   font-weight: 700;
   line-height: 44px;
-  letter-spacing: 0em;
   text-align: left;
   padding-left: 10px;
   color: #172b4d;
   margin-top: 5px;
 }
-
 
 ul {
   margin-top: 60px;
@@ -421,7 +415,6 @@ li {
   letter-spacing: 3%;
   color: rgba(96, 112, 255, 1);
 }
-
 
 .action {
   width: 295px;
