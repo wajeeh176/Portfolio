@@ -228,7 +228,6 @@
   align-items: flex-start;
   gap: 12px;
   display: inline-flex;
-
 }
 
 .PrimaryText {
@@ -416,7 +415,6 @@ li {
   letter-spacing: 3%;
   color: rgba(96, 112, 255, 1);
 }
-
 
 .action {
   width: 295px;
