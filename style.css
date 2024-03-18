@@ -603,11 +603,12 @@ li {
 }
 
 .contact-form {
-  background-color: #6070FF;
+  background-color: #6070ff;
   width: 375px;
   height: 779px;
   position: relative;
-  border-radius: 50px 0px 0px 0px;
+  border-radius: 50px /*0px 0px 0px*/;
+  /*Linters not allowing the 0 values*/
 }
 
 .contact-form header {
