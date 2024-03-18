@@ -454,9 +454,8 @@ line-height: 4px;
   padding: 114px,24px,114px,24px; 
   gap: 24px; 
   background-color: white;
-  display: flex;
-  justify-content: center;
   border-radius: 0px  50px  0px  0px;
+  border: 2px solid black;
 }
 
 .top{
@@ -464,7 +463,8 @@ line-height: 4px;
   height: 346px;
   gap: 12px;
   margin-top: 130px;
-  margin-left: 20px;
+  margin-left: 30px;
+  
 }
 
 #T1{
@@ -473,6 +473,7 @@ font-weight: 700;
 font-size: 40px;
 line-height: 52px;
 color: #172B4D;
+
 }
 
 #T2{
@@ -508,11 +509,13 @@ line-height: 24px;
 padding: 4px;
 margin-top: 8px;
 margin-left: 6px;
+
 }
 
 #btn2{
-  width: 162px;
-  height: 30px;
+
+  width: 138px;
+  height: 24px;
   border-radius: 8px;
   border: 1px solid #6070FF;
   padding: 12px;
@@ -527,3 +530,103 @@ margin-left: 6px;
   margin-left: -10px;
   margin-top: 10px;
 }
+
+#skill_list{
+
+  width: 327px;
+  height: 464.15px;
+  
+  margin-left: 19px;
+ 
+}
+
+.frame12{
+  width: 327px;
+  height: 320.15px;
+ 
+}
+
+.frame7{
+  width: 327px;
+  height: 72px;
+  
+  display: flex;
+  align-items: center;
+}
+
+.language_list{
+  width: 327px;
+  height: 248.15px;
+
+
+}
+
+.frame8{
+  width: 327px;
+  height: 72px;
+  
+  display: flex;
+  align-items: center;
+}
+
+.frame9{
+  width: 327px;
+  height: 72px;
+  
+  display: flex;
+  align-items: center;
+}
+
+.seperator{
+width: 327px;
+height: 1px;
+top: 71px;
+color: #DFE1E6;
+}
+
+.lang{
+width: 1900px;
+height: 24px;
+top: 24px;
+margin-left: 12px;
+font-family:"poppins";
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.lang1{
+  width: 1800px;
+  height: 24px;
+  top: 24px;
+  margin-left: 12px;
+  font-family:"poppins";
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  }
+
+.js1{
+width: 303px;
+height: 66.72px;
+padding: 9px,12px,9px,12px;
+border-radius: 8px;
+background: #F7F7F9;
+margin: 8px;
+display: flex;
+align-items: center;
+
+font-family: "Poppins";
+font-size: 15px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+
