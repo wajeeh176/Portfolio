@@ -292,7 +292,6 @@
   padding-bottom: 8pc;
   justify-content: center;
   width: 375px;
-
 }
 
 .cardWorks {
@@ -305,14 +304,12 @@
   display: inline-block;
   justify-content: center;
   background-color: white;
-
 }
 
 .leftBlock {
   width: 295px;
   height: 288px;
   gap: 12px;
-
 }
 
 .projectTitle {
@@ -322,13 +319,11 @@
   font-size: 32px;
   font-weight: 700;
   line-height: 44px;
-  letter-spacing: 0em;
   text-align: left;
   padding-left: 10px;
   color: #172b4d;
   margin-top: 5px;
 }
-
 
 ul {
   margin-top: 60px;
@@ -454,8 +449,8 @@ li {
   padding: 114px, 24px, 114px, 24px;
   gap: 24px;
   background-color: white;
-  border-radius: 0px 50px 0px 0px;
-  border: 2px solid black;
+  border-radius: 0px 50px;
+  border: 2px solid white;
 }
 
 .top {
@@ -578,7 +573,6 @@ li {
   font-size: 20px;
   font-weight: 500;
   line-height: 24px;
-  letter-spacing: 0em;
   text-align: left;
 }
 
