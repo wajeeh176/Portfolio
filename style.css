@@ -690,12 +690,12 @@ li {
   .ToolbarDarkCompact {
     gap: 890px;
     width: 100%;
-    }
-  
+  }
+
   .LogoPlaceholder {
     margin-left: 143px;
   }
-  
+
   .MyLogo {
     font-size: 21px;
   }
@@ -704,48 +704,48 @@ li {
     width: 34px;
     height: 34px;
   }
-  
+
   .Union {
     width: 38px;
     height: 32px;
   }
-  
+
   .HeaderBackgroundMobile {
     width: 100%;
     height: 718px;
     background: white;
   }
-  
+
   .HeaderShapesMobile {
     width: 100%;
   }
-  
-  .Rectangle7 {  
+
+  .Rectangle7 {
     left: 50%;
   }
-  
+
   .Ellipse5 {
     left: 50.3%;
   }
-  
+
   .Rectangle5 {
     left: 55%;
   }
-  
+
   .Ellipse4 {
     left: 58%;
   }
-  
+
   .Ellipse13 {
     left: 27%;
     top: 600px;
   }
-  
+
   .Ellipse12 {
     left: 28%;
     top: 584px;
   }
-  
+
   .Rectangle6 {
     left: 5%;
   }
@@ -757,126 +757,127 @@ li {
   .Ellipse11 {
     left: 7%;
   }
-  
+
   .Ellipse14 {
     left: 71.86%;
   }
-  
+
   .Ellipse15 {
     left: 19%;
   }
-  
+
   .Ellipse3 {
     left: 85%;
     border-radius: 0px;
   }
-  
+
   .Rectangle4 {
     left: 85%;
   }
-  
+
   .Headline {
     width: 100%;
     align-items: center;
   }
-  
+
   .PrimaryText {
-    
+
     width: 100%;
     margin-left: 50%;
-    
+
   }
-  
+
   .PrimaryTextNext {
     width: 50%;
     margin-top: -90px;
     height: 110px;
   }
-  
+
   .SocialMedia {
     margin-top: -50px;
     margin-left: -500px;
   }
-    
+
   .works {
     width: 100%;
   }
-  
+
   .cardWorks {
     height: 496px;
-    width: 1156px;    
+    width: 1156px;
     display: flex;
   }
 
-  .snapshot{
+  .snapshot {
     width: 544px;
     height: 448px;
   }
 
-  .im{
+  .im {
     width: 544px;
     height: 445px;
   }
-  
+
   .leftBlock {
     width: 544px;
     height: 400px;
     gap: 12px;
     padding: 24px;
   }
-  
+
   .about_my_self {
     width: 100%;
     height: 524px;
     display: flex;
     justify-content: center;
   }
-  
+
   .top {
     width: 447px;
     height: 311px;
-    gap: 12px;  
+    gap: 12px;
   }
-  
+
   #T2 {
     width: 100%;
     height: 105px;
   }
-  
-  #frame1{
+
+  #frame1 {
     width: 300px;
   }
-  
+
   #frame1 img {
     padding: 4px;
     margin-top: 8px;
     margin-left: 6px;
   }
-  
+
   #skill_list {
     width: 500px;
     margin-top: 128px;
     height: 311px;
     margin-left: 19px;
   }
-  
+
   .frame12 {
     width: 327px;
-    height: 170.15px;  
+    height: 170.15px;
   }
-  
+
   .frame7 {
     width: 327px;
     height: 72px;
     display: flex;
     align-items: center;
   }
-  
+
   .language_list {
     width: 327px;
     height: 248.15px;
     display: flex;
   }
+
   .contact-form {
     width: 1440px;
     height: 846px;
