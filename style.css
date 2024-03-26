@@ -690,7 +690,6 @@ li {
   .ToolbarDarkCompact {
     gap: 890px;
     width: 100%;
-
     }
   
   .LogoPlaceholder {
@@ -698,14 +697,12 @@ li {
   }
   
   .MyLogo {
-
     font-size: 21px;
   }
 
   .IconsIconMenu {
     width: 34px;
     height: 34px;
-    
   }
   
   .Union {
@@ -725,13 +722,10 @@ li {
   
   .Rectangle7 {  
     left: 50%;
-  
   }
   
   .Ellipse5 {
-
     left: 50.3%;
-    
   }
   
   .Rectangle5 {
@@ -764,14 +758,12 @@ li {
     left: 7%;
   }
   
-  
   .Ellipse14 {
     left: 71.86%;
   }
   
   .Ellipse15 {
     left: 19%;
-    
   }
   
   .Ellipse3 {
@@ -781,15 +773,11 @@ li {
   
   .Rectangle4 {
     left: 85%;
-    
   }
   
   .Headline {
-
     width: 100%;
-  
     align-items: center;
-
   }
   
   .PrimaryText {
@@ -803,16 +791,13 @@ li {
     width: 50%;
     margin-top: -90px;
     height: 110px;
-   
   }
   
   .SocialMedia {
     margin-top: -50px;
     margin-left: -500px;
-
   }
-  
-  
+    
   .works {
     width: 100%;
   }
@@ -822,7 +807,6 @@ li {
     width: 1156px;    
     display: flex;
   }
-
 
   .snapshot{
     width: 544px;
@@ -841,13 +825,11 @@ li {
     padding: 24px;
   }
   
-  
   .about_my_self {
     width: 100%;
     height: 524px;
     display: flex;
     justify-content: center;
-
   }
   
   .top {
@@ -855,7 +837,6 @@ li {
     height: 311px;
     gap: 12px;  
   }
-  
   
   #T2 {
     width: 100%;
@@ -881,8 +862,7 @@ li {
   
   .frame12 {
     width: 327px;
-    height: 170.15px;
-    
+    height: 170.15px;  
   }
   
   .frame7 {
