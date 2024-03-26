@@ -686,7 +686,7 @@ li {
   .Template1MobileMain {
     width: 100%;
   }
-  
+
   .ToolbarDarkCompact {
     gap: 890px;
     width: 100%;
@@ -768,7 +768,6 @@ li {
 
   .Ellipse3 {
     left: 85%;
-    border-radius: 0px;
   }
 
   .Rectangle4 {
@@ -781,10 +780,8 @@ li {
   }
 
   .PrimaryText {
-
     width: 100%;
     margin-left: 50%;
-
   }
 
   .PrimaryTextNext {
