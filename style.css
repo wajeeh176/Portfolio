@@ -608,8 +608,6 @@ li {
   height: 779px;
   position: relative;
   border-radius: 50px;
-
-  /* Linters not allowing the 0 values for border radius 50px 0px 0px 0px */
 }
 
 .contact-form header {
